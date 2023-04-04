@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyCIJbyZgecqf3xI993txfQ4Iaw8uQwHNwA',
-    appId: '1:322685866747:android:ab6e3496b18ed4b7c9965e',
+    appId: '1:322685866747:android:15b8c60943d8f99ec9965e',
     messagingSenderId: '322685866747',
     projectId: 'fluttertest-bee29',
     storageBucket: 'fluttertest-bee29.appspot.com',
